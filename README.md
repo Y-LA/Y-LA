@@ -1,6 +1,6 @@
 # Hi, I'm Yousef Ellawah 👋
 
-**Junior Software Engineer | AI, IoT & Backend Development**
+**Software Engineer | AI, IoT & Backend Development**
 
 Computer Engineering graduate from Misr University for Science and Technology with hands-on experience building end-to-end systems that combine **AI, IoT, Backend APIs, Mobile Apps, and Web Platforms**.
 
@@ -42,12 +42,12 @@ The platform includes customer booking flow, authentication, admin dashboard, bo
 
 ### 💆 Glam AI — AI Skin Analysis System
 
-AI skin-analysis project focused on acne detection and severity classification using computer vision.
+Computer vision project focused on acne lesion detection, with a planned second stage for acne severity classification.
 
-The system combines object detection and classification techniques to identify acne regions and support skin-condition analysis.
+The project is being rebuilt as a structured AI portfolio project with clear phases, notebooks, model evaluation, and documentation.
 
-**Tech Stack:** Python, YOLOv5, ResNet, Computer Vision, Machine Learning  
-**Status:** In Progress / Portfolio Development
+**Tech Stack:** Python, YOLO, Computer Vision, Roboflow, Machine Learning  
+**Status:** In Progress
 
 ---
 
